@@ -70,3 +70,5 @@ console.log(sum);
 The `.reduce` callback takes 2 arguments -- an accumulator and the current value in the array -- you can then modify the accumulator and the updated value will get passed to the next callback iteration.
 
 The second argument to the reduce function (NOT the callback) is the initial value of the accumulator.
+
+Small change so I can checkout to dev branch to make PR
